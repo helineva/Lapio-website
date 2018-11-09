@@ -1,1 +1,6 @@
-p { background-color: red; }
+h1 { color: blue; }
+h2 { color: darkred; }
+h3 { color: darkred; }
+.leipateksti { color: darkred; }
+ul { color: pink; }
+#jatkuu { color: red; }
